@@ -13,6 +13,7 @@ endif
 let g:colors_name='newpron'
 set t_Co=256
 
+hi Normal       guifg=#e8ecf0     guibg=#304050
 
 " javascript
 

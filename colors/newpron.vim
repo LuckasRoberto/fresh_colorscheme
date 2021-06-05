@@ -129,7 +129,7 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   hi Special guifg=#EA9652 guibg=NONE guisp=NONE gui=NONE cterm=NONE
   hi Statement guifg=#FEDE5D guibg=NONE guisp=NONE gui=NONE cterm=NONE
   hi String guifg=#EA9652 guibg=NONE guisp=NONE gui=NONE cterm=NONE
-  hi Type guifg=#dd0368 guibg=NONE guisp=NONE gui=NONE cterm=NONE
+  hi Type guifg=#ff1269 guibg=NONE guisp=NONE gui=NONE cterm=NONE
   hi Underlined guifg=#40ffff guibg=NONE guisp=NONE gui=underline cterm=underline
   hi rubySymbol guifg=#EB8F82 guibg=NONE guisp=NONE gui=NONE cterm=NONE
   hi rubyBoolean guifg=#EB8F82 guibg=NONE guisp=NONE gui=NONE cterm=NONE

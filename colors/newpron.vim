@@ -86,7 +86,7 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   let g:terminal_ansi_colors = ['Black', 'DarkRed', 'DarkGreen', 'DarkYellow',
         \ 'DarkBlue', 'DarkMagenta', 'DarkCyan', 'LightGrey', 'DarkGrey', 'Red',
         \ 'Green', '#FEDE5D', 'Blue', '#D884C7', 'Cyan', 'White']
-  hi Normal guifg=#ECEBED guibg=#262335 guisp=NONE gui=NONE cterm=NONE
+  hi Normal guifg=#ECEBED guibg=##21112f guisp=NONE gui=NONE cterm=NONE
   hi ColorColumn guifg=NONE guibg=#2C2540 guisp=NONE gui=NONE cterm=NONE
   hi Cursor guifg=Black guibg=fg guisp=NONE gui=NONE cterm=NONE
   hi CursorColumn guifg=NONE guibg=#2C2540 guisp=NONE gui=NONE cterm=NONE

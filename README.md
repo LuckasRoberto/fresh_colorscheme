@@ -1,2 +1,2 @@
-# Fresh_Colorscheme
+# Fresh Colorscheme
 An experimental VIM Color Scheme im making myself
